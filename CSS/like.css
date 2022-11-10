@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.source{
+display: flex;
+justify-content: space-between;
+padding-top: 20px;
+padding-right: 60px;
+padding-left: 50px;
+}
+
+button{
+margin-top: 30px;
+padding: 13px 20px;
+font-size: 14px;
+background-color: #E50914;
+color: white;
+border: none;
+border-radius: 10px;
+margin-left: -4px;
+}
+
+.content{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 500px;
+font-size: 30px;
+margin-top: -50px;
+text-align: center;
+}
+
+.ready{
+font-size: 20px;
+margin-bottom: -40px;
+}
+
+.watch{
+font-size: 25px;
+margin-bottom: 30px;
+}
+
+.movie{
+margin-bottom: 20px;
+}
+
+
+
+.email{
+width: 50%;
+padding: 24px 30px;
+outline: none;
+}
+
+
+
+.mum{
+height: 100vh;
+background-position: center;
+background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../img/flix-background.jpg);
+font-family: 'Roboto', sans-serif;
+}
+
+.format{
+color: white;
+}
+
+.offering{
+margin-left: 25%;
+margin-top: -9%;
+}
+
+.tithe{
+padding: 25px 30px;
+width: 50%;
+}
+
+.now{
+padding: 24px 30px;
+font-size: 20px;
+border-radius: 0px;
+
+}

@@ -1,0 +1,18 @@
+*{
+box-sizing: border-box;
+margin: 0;
+border: 0;
+}
+
+body{
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+img{
+width: 400px;
+clip-path: circle();
+
+}

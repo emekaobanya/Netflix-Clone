@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.head{
+display: flex;
+justify-content: center;
+height: 100vh;
+align-items: center;
+}
+
+.friday{
+font-size: 15vw;
+font-family: 'Luckiest Guy', cursive;
+background-image: url(../img/cartoon.\ kids.png);
+/* background-size: cover; */
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+}

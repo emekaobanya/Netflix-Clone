@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;1,100&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.parent{
+    background-color: black;
+}
+
+.nav{
+display: flex;
+justify-content: space-between;
+padding-top: 20px;
+padding-right: 4%;
+padding-left: 4%;
+}
+
+button{
+padding: 9px 20px;
+border-radius: 6px;
+border: none;
+background-color: #E50914;
+color: white;
+font-size: 17px;
+}
+
+.movies{
+height: 500px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: black;
+font-family: 'Josefin Sans', sans-serif;
+font-weight: bolder;
+}
+
+h1, h2{
+font-size: 50px;
+}
+
+h3{
+font-size: 20px;
+}
+.show{
+margin-top: 80px;
+color: white;
+margin-bottom: 130px;
+}
+
+.watch{
+margin-top: 20px;
+font-size: 30px;
+}
+
+.content{
+margin-top: 30px;
+margin-bottom: 20px;
+padding-left: 20px;
+}
+
+input{
+padding: 20px 150px;
+}
+
+.but{
+padding: 20px 40px;
+border-radius: 0px;
+}
+
+.more{
+text-align: center;
+}
+
+.head{
+text-align: center;
+}
+
+/* TELEVISION */
+
+
+
